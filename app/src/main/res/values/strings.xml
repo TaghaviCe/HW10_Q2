@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">HW10_Q2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="q1">Is Tehran the capital of Iran?</string>
+    <string name="q2">"Is Berlin the German capital?"</string>
+    <string name="q3">Is the capital of Afghanistan Juba?</string>
+    <string name="q4">Is the capital of Tajikistan Dushanbe?</string>
+    <string name="q5">Is Rome the capital of Italy?</string>
+    <string name="q6">Is Stockholm the capital of Poland</string>
+    <string name="q7">Is Tbilisi the capital of Armenia?</string>
+    <string name="q8">Is Amsterdam the capital of the Netherlands?</string>
+    <string name="q9">Is Beirut the capital of Lebanon?</string>
+    <string name="q10">Is Tbilisi the capital of Armenia?</string>
+</resources>
